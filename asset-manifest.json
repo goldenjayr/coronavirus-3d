@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goldenjayr/coronavirus-3d.git/static/css/main.6c1f68af.chunk.css",
+    "main.js": "/goldenjayr/coronavirus-3d.git/static/js/main.a54cd8bb.chunk.js",
+    "main.js.map": "/goldenjayr/coronavirus-3d.git/static/js/main.a54cd8bb.chunk.js.map",
+    "runtime-main.js": "/goldenjayr/coronavirus-3d.git/static/js/runtime-main.b6476041.js",
+    "runtime-main.js.map": "/goldenjayr/coronavirus-3d.git/static/js/runtime-main.b6476041.js.map",
+    "static/js/2.4c650b72.chunk.js": "/goldenjayr/coronavirus-3d.git/static/js/2.4c650b72.chunk.js",
+    "static/js/2.4c650b72.chunk.js.map": "/goldenjayr/coronavirus-3d.git/static/js/2.4c650b72.chunk.js.map",
+    "index.html": "/goldenjayr/coronavirus-3d.git/index.html",
+    "precache-manifest.ebeffbf175fc648240f65ee6bec347fc.js": "/goldenjayr/coronavirus-3d.git/precache-manifest.ebeffbf175fc648240f65ee6bec347fc.js",
+    "service-worker.js": "/goldenjayr/coronavirus-3d.git/service-worker.js",
+    "static/css/main.6c1f68af.chunk.css.map": "/goldenjayr/coronavirus-3d.git/static/css/main.6c1f68af.chunk.css.map",
+    "static/js/2.4c650b72.chunk.js.LICENSE.txt": "/goldenjayr/coronavirus-3d.git/static/js/2.4c650b72.chunk.js.LICENSE.txt",
+    "static/media/Covid-19fin2.glb": "/goldenjayr/coronavirus-3d.git/static/media/Covid-19fin2.16698fb9.glb",
+    "static/media/logo.svg": "/goldenjayr/coronavirus-3d.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6476041.js",
+    "static/js/2.4c650b72.chunk.js",
+    "static/css/main.6c1f68af.chunk.css",
+    "static/js/main.a54cd8bb.chunk.js"
+  ]
+}
